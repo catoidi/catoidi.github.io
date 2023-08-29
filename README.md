@@ -1,4 +1,4 @@
 # catoidi.github.io
 My stuff.
 
-[test wiki page](./boneless-ttt/)
+[test wiki page](catoidi.githuh.io/boneless-ttt/)
